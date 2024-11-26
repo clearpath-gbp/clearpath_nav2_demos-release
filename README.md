@@ -1,3 +1,26 @@
+## clearpath_nav2_demos (humble) - 0.2.0-2
+
+The packages in the `clearpath_nav2_demos` repository were released into the `humble` distro by running `/usr/bin/bloom-release clearpath_nav2_demos -r humble -t humble` on `Tue, 26 Nov 2024 04:33:45 -0000`
+
+The `clearpath_nav2_demos` package was released.
+
+Version of package(s) in repository `clearpath_nav2_demos`:
+
+- upstream repository: https://github.com/clearpathrobotics/clearpath_nav2_demos.git
+- release repository: https://github.com/clearpath-gbp/clearpath_nav2_demos-release.git
+- rosdistro version: `0.2.0-1`
+- old version: `0.2.0-1`
+- new version: `0.2.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## clearpath_nav2_demos (humble) - 0.2.0-1
 
 The packages in the `clearpath_nav2_demos` repository were released into the `humble` distro by running `/usr/bin/bloom-release clearpath_nav2_demos -r humble -t humble` on `Mon, 22 Jan 2024 20:28:43 -0000`
