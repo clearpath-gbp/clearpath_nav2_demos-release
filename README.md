@@ -1,3 +1,26 @@
+## clearpath_nav2_demos (jazzy) - 2.0.0-1
+
+The packages in the `clearpath_nav2_demos` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release clearpath_nav2_demos -r jazzy -t jazzy` on `Fri, 31 Jan 2025 12:14:28 -0000`
+
+The `clearpath_nav2_demos` package was released.
+
+Version of package(s) in repository `clearpath_nav2_demos`:
+
+- upstream repository: https://github.com/clearpathrobotics/clearpath_nav2_demos.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## clearpath_nav2_demos (humble) - 1.0.0-1
 
 The packages in the `clearpath_nav2_demos` repository were released into the `humble` distro by running `/usr/bin/bloom-release clearpath_nav2_demos -r humble -t humble --edit-track` on `Tue, 26 Nov 2024 04:35:15 -0000`
